@@ -15,6 +15,7 @@
     "start-server-and-test": "^1.12.1"
   },
   "dependencies": {
+    "json-server": "^0.17.4",
     "serve": "^11.3.2"
   }
 }
